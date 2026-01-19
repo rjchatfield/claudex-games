@@ -1,0 +1,50 @@
+{
+  "activeTeamMembers" : [
+    {
+      "pokemonId" : 728,
+      "pokemonIdentifier" : "popplio",
+      "level" : 11,
+      "currentMoves" : [
+        {
+          "name" : "Water Gun",
+          "id" : 55,
+          "type" : 11
+        },
+        {
+          "name" : "Pound",
+          "id" : 1,
+          "type" : 1
+        },
+        {
+          "name" : "Disarming Voice",
+          "id" : 574,
+          "type" : 18
+        },
+        {
+          "name" : "Baby-Doll Eyes",
+          "id" : 608,
+          "type" : 18
+        }
+      ],
+    },
+    {
+      "pokemonIdentifier" : "magnemite",
+      "pokemonId" : 81,
+      "level" : 3,
+      "currentMoves" : [],
+    },
+    {
+      "pokemonIdentifier" : "wingull",
+      "pokemonId" : 278,
+      "level" : 3,
+      "currentMoves" : [],
+    },
+    {
+      "pokemonIdentifier" : "meowth-alola",
+      "pokemonId" : 10107,
+      "level" : 3,
+      "currentMoves" : [],
+    }
+  ],
+  "storedTeamMembers" : [],
+}
